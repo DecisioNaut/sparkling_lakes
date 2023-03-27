@@ -10,6 +10,8 @@ packages = [{include = "sparkling_lakes"}]
 [tool.poetry.dependencies]
 python = "3.8.16"
 pyspark = "^3.3.2"
+pandas = "^1.5.3"
+matplotlib = "^3.7.1"
 
 
 [tool.poetry.group.dev.dependencies]
