@@ -34,3 +34,7 @@ Please find the documentation here:
 3. [Curated zone](./project/results/curated/)
     - [customer data](./project/results/curated/customer/)
     - [machine learning data](./project/results/curated/machine_learning/) (combination of accelerometer and step trainer data)
+
+As the previous reviewer was somehow not able to see that customer data in the landing and trusted zone, differ by having sharewithresearchasofdata column with nulls and without nulls respectively, I added them more explicitely here:
+- [customer data in landing zone having data with sharewithresearchasofdata = NULL](./project/results/landing/customer/customer_landing_with_sharewithreasearchasofdate_is_null.png)
+- [customer data in trusted zone having data with sharewithresearchasofdata = NULL](./project/results/trusted/customer/customer_trusted_with_sharewithreasearchasofdate_is_null.png)
