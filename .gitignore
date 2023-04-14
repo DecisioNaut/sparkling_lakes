@@ -1,3 +1,4 @@
 .DS_Store
-sparkify_log_small.csv
-data
+.python-version
+poetry.lock
+pyproject.toml
